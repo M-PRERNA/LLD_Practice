@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="859c16b8-f7ca-4c37-93f6-c8123267a256" name="Changes" comment="" />
+    <list default="true" id="859c16b8-f7ca-4c37-93f6-c8123267a256" name="Changes" comment="Adding files to repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +20,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Projects/lld"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,6 +58,54 @@
       <option name="presentableId" value="Default" />
       <updated>1779878391317</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding files to repo">
+      <option name="closed" value="true" />
+      <created>1779878917361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779878917361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding files to repo">
+      <option name="closed" value="true" />
+      <created>1779878968808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779878968808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding files to repo">
+      <option name="closed" value="true" />
+      <created>1779878977314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779878977314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding files to repo">
+      <option name="closed" value="true" />
+      <created>1779879079360</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779879079360</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding files to repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding files to repo" />
   </component>
 </project>
